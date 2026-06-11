@@ -25,14 +25,14 @@
 
 ## 🛠️ 기술 스택 (Tech Stack)
 
-### Development
-- **Language:** [예: Kotlin / Swift / JavaScript / Dart]
-- **Framework:** [예: Android Studio / Flutter / React Native / Unity]
-- **3D Graphics:** [예: WebGL / Three.js / SceneKit / Filament]
+### 개발 환경 및 언어
+- **개발 언어:** [예: Kotlin / Swift / JavaScript / Dart]
+- **프레임워크:** [예: Android Studio / Flutter / React Native / Unity]
+- **3D 그래픽스:** [예: WebGL / Three.js / SceneKit / Filament]
 
-### Environment & Tools
-- **Version Control:** Git, GitHub
-- **UI Design:** [예: Figma]
+### 협업 및 개발 도구
+- **버전 관리:** Git, GitHub
+- **UI/UX 디자인:** [예: Figma]
 
 ---
 
