@@ -37,8 +37,8 @@
 ---
 
 ## 📱 서비스 화면 (Screenshots)
+
 | 3D 레이아웃 추천 | 크기 제한 알림 | 예산 실시간 합산 |
-| :---: | :---: | :---: |<
-| <img width="1408" height="768" alt="KakaoTalk_20260611_210754618_02" src="https://github.com/user-attachments/assets/25d8c790-a7f0-459b-b569-5f4ff1bcfeab" /> | <img width="1408" height="768" alt="KakaoTalk_20260611_210754618_01" src="https://github.com/user-attachments/assets/b9afd202-5347-4d9a-ac76-296f404c3b44" /> | <img width="1408" height="768" alt="KakaoTalk_20260611_210754618" src="https://github.com/user-attachments/assets/4cd8a351-5b0a-4f96-8e4b-55e0540118bc" />
- |
+| :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/25d8c790-a7f0-459b-b569-5f4ff1bcfeab" width="100%" alt="3D 레이아웃 추천 화면"> | <img src="https://github.com/user-attachments/assets/b9afd202-5347-4d9a-ac76-296f404c3b44" width="100%" alt="크기 제한 알림 화면"> | <img src="https://github.com/user-attachments/assets/4cd8a351-5b0a-4f96-8e4b-55e0540118bc" width="100%" alt="실시간 예산 합산 화면"> |
 | *[설명: 3D 배치 추천 화면]* | *[설명: 경고 팝업 화면]* | *[설명: 예산 내역 화면]* |
